@@ -1,4 +1,4 @@
-# Instagram PHP Scraper
+#!Instagram PHP Scraper
 This library is based on the Instagram web version. We develop it because nowadays it is hard to get an approved Instagram application. The purpose is to support every feature that the web desktop and mobile version support. 
 
 ## Dependencies
@@ -68,3 +68,4 @@ See examples [here](https://github.com/postaddictme/instagram-php-scraper/tree/m
 
 ## Other
 Java library: https://github.com/postaddictme/instagram-java-scraper
+ 
